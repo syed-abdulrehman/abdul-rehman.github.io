@@ -6,7 +6,7 @@
 }
 .main{background-color: #222; }
 .image {background-image:
-      url("../images/12.jpg");
+      url("../images/1.jpg");
       width: 500px; height: 800px; border: 2px solid black;
       background-size: 500px 800px;
       float: left;
@@ -15,7 +15,7 @@
 .image2{text-align: center;  color:white; margin-top: 730px;}
 #w{color:#009900;}
 #w{color:#33FF98;}
-  .abc{float: left; background-color:none; margin-left:30px; color:white; font-size: 1.5em; overflow: hidden; width: 800px;}
+  .abc{float: left; background-color:none; margin-left:30px; color:white; font-size: 1.5em; overflow: hidden; width: 700px;}
   
   .abc p {font-size: 0.7em;}
   .clear {clear:both;}
