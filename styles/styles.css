@@ -20,7 +20,8 @@
   .abc p {font-size: 0.7em;}
   .clear {clear:both;}
   
-.services{width:100%;  border-top:3px solid gray;  border-bottom:3px solid gray; margin-top: 50px; padding-top: 20px; padding-bottom: 100px; margin-bottom: 10px;}
+.services{width:100%;  border-top:3px solid gray;  border-bottom:3px solid gray; margin-top: 50px; padding-top: 20px;
+ padding-bottom: 35px; margin-bottom: 2px;}
 
 .services-left {width:28%; float: left; text-align: left;}
 
